@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @V1k770r or Victor
-- 👀 I’m interested in learning about technology 
+- 👀 I’m interested in learning about Technology 
 - 🌱 I’m currently learning javaScript
 
 
