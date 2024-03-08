@@ -1,17 +1,18 @@
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
-### <b>“Some people want something to happen, others dream of it happening, but there are others who make it happen.”</b>
+<h2 align="center">“Some people want something to happen, others dream of it happening, but there are others who make it happen.”</h2>
 
 ---
 
-### Hi there 👋 I'am Victor
+### Hi there 👋 I'm Victor
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp; About Me
 
-📚 &nbsp;I have finished the Oracle Next Education F2T5 Back-end Program hosted by ALURA.\ 
-💻 &nbsp;I have an strong interest in continues learning new technologies.\
-🎓 &nbsp;I am currently self taught Student.\
-✉️ &nbsp;You can send me an email at testprueba066@gmail.com; I'll try to respond as soon as I can.\
-⚡ &nbsp;I am currently open for: <b>An Intern</b> or a new <b>job opportunity</b>.
+- 📚 &nbsp; I have finished the **Oracle Next Education F2T5 Back-end Program** hosted by **ALURA LATAM**.
+- 💻 &nbsp; I have an strong interest in continues learning new technologies.
+- 🎓 &nbsp; I am currently self taught Student.
+- ✉️ &nbsp; You can send me an email at testprueba066@gmail.com; I'll try to respond as soon as I can.
+- ⚡ &nbsp; I am currently open for: <b>An Intern</b> or a new <b>job opportunity</b>
 
 ---
 
@@ -42,6 +43,7 @@
 </a>      
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img height="40" width="40" 
     src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png">
+</a>   
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
     alt="mysql" width="40" height="40">
@@ -63,9 +65,11 @@
     alt="postman" width="40" height="40">
 </a> 
 <a href="" target="_blank"> <img src="https://seeklogo.com/images/J/jetbrains-intellij-idea-logo-CA1D5DC51F-seeklogo.com.png" 
-    alt="intelli " width="40" height="40"> 
+    alt="intellij idea" width="40" height="40"> 
 </a>
-  
+<br>
+<br>
+
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics
