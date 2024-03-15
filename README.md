@@ -8,7 +8,7 @@
 
 ### 👨🏻‍💻 &nbsp; About Me
 
-- 📚 &nbsp; I have participated in the **Oracle Next Education F2T5 Back-end Program** hosted by **ALURA LATAM**.
+- 📚 &nbsp; I have participated in the **Oracle Next Education F2T5 Back-end Program** hosted by **ORACLE AND ALURA LATAM**.
 - 💻 &nbsp; I have an strong interest in continues learning new technologies.
 - 🎓 &nbsp; I am currently self taught Student.
 - ✉️ &nbsp; You can send me an email at testprueba066@gmail.com; I'll try to respond as soon as I can.
